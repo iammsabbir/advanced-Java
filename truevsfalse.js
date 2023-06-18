@@ -37,6 +37,7 @@ if (name2.length){
 // undefined
 // null ()
 // NaN (not a number)
+// false (let variable = false)
 
 //True values- **************
 // "0" " " (space character)
